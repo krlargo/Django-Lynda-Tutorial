@@ -2,8 +2,6 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
-#import for http response
-from django.http import HttpResponse
 #returns 404 page
 from django.http import Http404
 
